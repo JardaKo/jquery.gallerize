@@ -74,3 +74,7 @@ To begin, you will be required to import the latest version of jQuery onto your 
 </script>
 
 ```
+
+
+## License
+Copyright(c) 2017 immersedone (Truc M. Phan). Licensed under the MIT License.
